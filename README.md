@@ -1,2 +1,2 @@
 these are my assignment on numpy and python
-myname is pranab sahoo
+myname is pranab sahoo.
