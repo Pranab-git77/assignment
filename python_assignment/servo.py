@@ -15,5 +15,6 @@ print(valid)
 
 def servo(x):
     return x*10
+
 sa = list(map(servo, valid))
 print(sa)
