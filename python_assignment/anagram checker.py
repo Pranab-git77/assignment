@@ -1,5 +1,5 @@
-s1 = input("Enter first string: ")
-s2 = input("Enter second string: ")
+s1 = input("Enter first string: ").replace(" ","").lower()
+s2 = input("Enter second string: ").replace(" ","").lower()
 
 if len(s1) != len(s2):
     print("Not Anagrams")
