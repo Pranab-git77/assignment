@@ -14,3 +14,5 @@ print(a[-1])
 
 print("Required output:")
 print(a[:2, 1:])
+
+print(a[0:2,0:2])

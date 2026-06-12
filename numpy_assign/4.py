@@ -23,3 +23,5 @@ print(a ** 2)
 
 print("Mean:")
 print(np.mean(a))
+
+print(a+4)
